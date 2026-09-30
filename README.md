@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Zyad 👋
 
-<!--
-**zyadelkemary/zyadelkemary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study Computer Science and Finance at Arizona State University ('27). I like building things, from low-level systems to ML models to data tools.
 
-Here are some ideas to get you started:
+**What I work with**
+- **Languages:** Python, Java, C++, C, SQL
+- **Areas:** Machine learning, operating systems, compilers, networking, databases
+- **Tools:** Git, Linux, Power BI, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- Learning more about machine learning and database systems
+- Always open to collaborating on interesting projects
+
+📫 [LinkedIn](https://www.linkedin.com/in/zyad-elkemary-1aa4a8326/) · elkamaryzyad@gmail.com
